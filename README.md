@@ -1,4 +1,4 @@
-homermultitext.github.io
-========================
+# homermultitext.github.io
 
-Github web page for the Homer Miultitext project
+
+Github web page for the Homer Multitext project.
