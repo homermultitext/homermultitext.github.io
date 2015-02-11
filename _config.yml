@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            The Homer Multitext project on github
+tagline:          'Archival data and software for working with editions of Homeric manuscripts'
+description:      ''
+baseurl: 'http://homermultitext.github.io/'
+
+
+
+author:
+  name:           'Neel Smith'
+ 
+paginate:         5
+
+links:
+  - title: HMT home page
+    url: http://www.homermultitext.org/
+    external: true
+  - title: Github source for this site
+    url: https://github.com/homermultitext/homermultitext.github.io
+    external: true
+
+   
