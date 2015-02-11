@@ -22,6 +22,9 @@ links:
   - title: HMT home page
     url: http://www.homermultitext.org/
     external: true
+  - title: HMT editors' group
+    url: http://hmteditors.github.io/
+    external: true
   - title: Github source for this site
     url: https://github.com/homermultitext/homermultitext.github.io
     external: true
