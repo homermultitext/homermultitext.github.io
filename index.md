@@ -18,7 +18,7 @@ title: The Homer Multitext project
 
 ## Other work in progress
 
-- `hmt-editors-guide`: editorial guide for contributors to the Homer Multitext project (2013 edition currently being updated)
+- `hmt-editors-guide`: editorial guide for contributors to the Homer Multitext project (2014 edition currently being updated)
     - [web site](http://homermultitext.github.io/hmt-editors-guide/)
     - [github repository](https://github.com/homermultitext/hmt-editors-guide)
 - [hmt-digital-vm](https://github.com/homermultitext/hmt-digital-vm): a virtual machine for hosting the services and applications of hmt-digital
