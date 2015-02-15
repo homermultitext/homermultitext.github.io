@@ -10,13 +10,17 @@ title: The Homer Multitext project
 
 ## Other current repositories
 
-- [hmt-vm](https://github.com/homermultitext/hmt-vm): a virtual machine using Vagrant + Virtual Box for editorial work on the Homer Multitext project
+- `hmt-vm`:  a virtual machine using Vagrant + Virtual Box for editorial work on the Homer Multitext project
+    - [web site](http://homermultitext.github.io/hmt-vm/)
+    - [github repository](https://github.com/homermultitext/hmt-vm)
 - [hmt-mom](https://github.com/homermultitext/hmt-mom): Mandatory On-going Maintenance, a build project for testing and validating editorial work on the Homer Multitext project
 - [hmt-utils](https://github.com/homermultitext/hmt-utils): a JVM library implementing some HMT-specific functionality, such as tokenization of texts following HMT project conventions
 
 ## Other work in progress
 
-- [hmt-editors-guide](https://github.com/homermultitext/hmt-editors-guide): editorial guide for contributors to the Homer Multitext project (2013 edition currently being updated)
+- `hmt-editors-guide`: editorial guide for contributors to the Homer Multitext project (2013 edition currently being updated)
+    - [web site](http://homermultitext.github.io/hmt-editors-guide/)
+    - [github repository](https://github.com/homermultitext/hmt-editors-guide)
 - [hmt-digital-vm](https://github.com/homermultitext/hmt-digital-vm): a virtual machine for hosting the services and applications of hmt-digital
 
 ## Other links
