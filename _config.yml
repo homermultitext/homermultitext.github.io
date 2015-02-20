@@ -28,6 +28,8 @@ links:
   - title: HMT blog
     url: http://homermultitext.blogspot.com/
     external: true
+  - title: Summer seminar
+    url: /summerseminar2015/
   - title: Github source for this site
     url: https://github.com/homermultitext/homermultitext.github.io
     external: true
