@@ -9,6 +9,11 @@ title: The Homer Multitext project
     - [web site](hmt-archive) for the archive, including [live specifications](hmt-archive/specs/hmt/Hmt.html)
 - [hmt-digital](https://github.com/homermultitext/hmt-digital): digital services for working with the Homer Multitext project archive. The master branch is version `1.0`.
 
+
+## Project standards ##
+
+- HMT project [guide for editors](hmt-editors-guide)
+
 ## Other current repositories
 
 - `hmt-vm`:  a virtual machine using Vagrant + Virtual Box for editorial work on the Homer Multitext project
