@@ -6,6 +6,7 @@ title: The Homer Multitext project
 ## Currently published versions
 
 - [hmt-archive](https://github.com/homermultitext/hmt-archive): the project's central data archive. The master branch is issue `2014-1`.
+    - [web site](hmt-archive) for the archive, including [live specifications](hmt-archive/specs/hmt/Hmt.html)
 - [hmt-digital](https://github.com/homermultitext/hmt-digital): digital services for working with the Homer Multitext project archive. The master branch is version `1.0`.
 
 ## Other current repositories
