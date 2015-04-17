@@ -5,9 +5,8 @@ title: The Homer Multitext project
 
 ## Currently published versions
 
-- [hmt-archive](https://github.com/homermultitext/hmt-archive): the project's central data archive. The master branch is issue `2014-1`.
-    - [web site](hmt-archive) for the archive, including [live specifications](hmt-archive/specs/hmt/Hmt.html)
-- [hmt-digital](https://github.com/homermultitext/hmt-digital): digital services for working with the Homer Multitext project archive. The master branch is version `1.0`.
+- the **central data archive** for the project:  in its [github repository](https://github.com/homermultitext/hmt-archive), the master branch is our `2014-1` release.  (We're also beginning work on a [web page](hmt-archive) with [live specifications](hmt-archive/spec*s/hmt/Hmt.html) for the archive.)
+- **digital services** for working with the archive: in its [github repository](https://github.com/homermultitext/hmt-digital), the master branch is version `1.0`.
 
 
 ## Project standards ##
@@ -26,12 +25,9 @@ title: The Homer Multitext project
 
 ## Other work in progress
 
-- `hmt-editors-guide`: editorial guide for contributors to the Homer Multitext project (2014 edition currently being updated)
-    - [web site](http://homermultitext.github.io/hmt-editors-guide/)
-    - [github repository](https://github.com/homermultitext/hmt-editors-guide)
 - [hmt-digital-vm](https://github.com/homermultitext/hmt-digital-vm): a virtual machine for hosting the services and applications of hmt-digital
 
-## Other links
+## Links
 
 - the [Homer Multitext project web site](http://www.homermultitext.org/)
 - the [hmteditors organization on github](http://hmteditors.github.io/)
