@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h2>Older news</h2>
+<ul>
+  {% for post in site.posts offset:2 %}
+  <li>
+  <span class="datelabel">{{ post.date | date: "%B %d, %Y" }}:</span>
+      <a href="{{ post.url }}">{{ post.title }}</a>.
+      {{ post.content | strip_html | strip_newlines | truncate: 120 }}
+    </li>
+  {% endfor %}
+</ul>
+</div>
+
