@@ -9,7 +9,7 @@ permalink:        pretty
 title:            The Homer Multitext project on github
 tagline:          'Archival data and software for working with editions of Homeric manuscripts'
 description:      ''
-baseurl: 'http://homermultitext.github.io/'
+baseurl: '/'
 
 
 
