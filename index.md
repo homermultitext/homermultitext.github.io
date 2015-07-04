@@ -9,9 +9,11 @@ title: The Homer Multitext project
 - **digital services** for working with the archive: in its [github repository](https://github.com/homermultitext/hmt-digital), the master branch is version `1.0`.
 
 
-## Project standards ##
+## Project documentation ##
 
-- HMT project [guide for editors](hmt-editors-guide)
+
+- HMT [project documentation](hmt-docs)
+- HMT [guide for editors](hmt-editors-guide)
 
 ## Other current repositories
 
