@@ -11,7 +11,7 @@ permalink:        pretty
 title:            The Homer Multitext project on github
 tagline:          'Archival data and software for working with editions of Homeric manuscripts'
 description:      ''
-baseurl: '/'
+baseurl: ''
 
 
 
@@ -21,19 +21,15 @@ author:
 paginate:         5
 
 links:
-  - title: HMT home page
-    url: http://www.homermultitext.org/
+  - title: About
+    url: /about
+  - title: Documentation
+    url: http://homermultitext.github.io/hmt-docs
     external: true
-  - title: HMT documentation
-    url: /hmt-docs
-  - title: HMT editors' group
-    url: http://hmteditors.github.io/
+  - title: Code
+    url: /code
+  - title: Data
+    url: http://homermultitext.github.io/hmt-docs
     external: true
-  - title: HMT blog
-    url: http://homermultitext.blogspot.com/
-    external: true
-  - title: Github source for this site
-    url: https://github.com/homermultitext/homermultitext.github.io
-    external: true
-
-   
+  - title: Links
+    url: /links
