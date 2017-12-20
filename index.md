@@ -6,7 +6,7 @@ title: The Homer Multitext project
 
 ## HMT editions
 
-HMT editions follow an explicit abstract model.
+HMT editions follow an explicit abstract model, which we're beginning to describe [here](https://homermultitext.github.io/hmt-editing-principles).
 
 
 -   How to represent [HMT texts in XML](hmt-editors-guide)
