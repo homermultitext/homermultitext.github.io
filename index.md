@@ -4,20 +4,23 @@ title: The Homer Multitext project
 ---
 
 
-## HMT editions
-
-HMT editions follow an explicit abstract model, which we're beginning to describe [here](https://homermultitext.github.io/hmt-editing-principles).
+## Principles and practice
 
 
--   How to represent [HMT texts in XML](hmt-editors-guide)
--   A code library representing [HMT texts in the Scala language](hmt-textmodel)
--   [HMT-MOM](hmt-mom): utilities for automated validation and computer-assisted verifiation of HMT editions
+
+-   [Editorial principles](hmt-editing-principles).
+-   [Editorial practices](hmt-editors-guide) following these principles
+-   A code library in  Scala [modeling these principles](hmt-textmodel)
+
+
+
 
 
 
 
 
 ## Site map
+
 - [About HMT on github](about)
 - [Documentation](http://homermultitext.github.io/hmt-docs)
 - [Code](code)
