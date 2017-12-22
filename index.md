@@ -10,7 +10,7 @@ title: The Homer Multitext project
 
 -   [Editorial principles](hmt-editing-principles).
 -   [Editorial practices](hmt-editors-guide) following these principles
--   A code library in  Scala [modeling these principles](hmt-textmodel)
+-   [A code library](hmt-textmodel) in  Scala modeling these principles 
 
 
 
