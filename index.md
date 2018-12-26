@@ -4,22 +4,18 @@ title: The Homer Multitext project
 ---
 
 
-## Principles and practice
+## We're moving!
 
+The Homer Multitext project continues to make all its work publicly available on github, but we're moving this documentary web site to <http://www.homermultitext.org>.
 
-
--   [Editorial principles](hmt-editing-principles).
--   [Editorial practices](hmt-editors-guide) following these principles
--   [A code library](hmt-textmodel) in  Scala modeling these principles 
-
-
+Please update links accordingly.
 
 
 
 
+## Migrating
 
-
-## Site map
+Material that has not yet been migrated to <http://www.homermultitext.org>:
 
 - [About HMT on github](about)
 - [Documentation](http://homermultitext.github.io/hmt-docs)
