@@ -17,7 +17,7 @@ Please update links accordingly.
 
 Material that has not yet been migrated to <http://www.homermultitext.org>:
 
-- [About HMT on github](about)
+
 - [Code](code)
 - [Data](http://homermultitext.github.io/hmt-archive)
 - [Links](links)
