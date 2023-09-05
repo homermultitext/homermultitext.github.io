@@ -1,0 +1,6 @@
+/**
+ * Forced light theme version
+ */
+
+@import '../variables-light.css';
+@import '../parts/_core.css';
