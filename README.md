@@ -1,8 +1,12 @@
 # homermultitext.github.io
 
 
-## How to build
+## How to use this repository
 
-Content on `homermultitext.github.io` is served from the `docs` directory of the `master` branch.
+Content on `homermultitext.github.io` is served from the `docs` directory of the `master` branch.  When changes are pushed to `master`, the github pages site is automatically updated. If you are developing content in a branch of this repository, you can test your changes by running a web server using `docs` as the root directory. (E.g., from the repository root, to use Julia's `LiveServer` package, you could run `julia -e 'using LiveServer; serve(dir="docs")`.)
 
-This can be `rsrync`'ed to `homermultitext.org`.
+
+Content in `docs` can be synced up to the web site at `www.homermultitext.org` using `rsync`.  (E.g., from the repository root, you could run `rsync -avz ./docs/ USERNAME@amphoreus.hpcc.uh.edu:/var/www/html/hmt`.)
+
+
+
