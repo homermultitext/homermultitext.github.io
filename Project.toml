@@ -1,3 +1,8 @@
 [deps]
 CitableBase = "d6f014bd-995c-41bd-9893-703339864534"
 HmtArchive = "1e7b0059-6550-4515-8382-5d3f2046a0a7"
+HmtGutenberg = "09780231-1698-4933-9d9d-4e01e0abea36"
+
+[compat]
+CitableBase = "10"
+HmtArchive = "0.14"
