@@ -6,3 +6,4 @@ HmtGutenberg = "09780231-1698-4933-9d9d-4e01e0abea36"
 [compat]
 CitableBase = "10"
 HmtArchive = "0.14"
+HmtGutenberg = "0.2"
