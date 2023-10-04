@@ -9,26 +9,26 @@ using HmtGutenberg
 
 cexdata = hmt_cex()
 va = hmt_codices(cexdata)[6]
-va.pages[26]
+title = label(va)
 iliadpageurns = map(p -> urn(p), va.pages[26:655])
 
 
-zones_md = formatpages(iliadpageurns)
+zones_md = formatpages(title, iliadpageurns)
 open("venetus-a-by-zone.md", "w") do io
     write(io, zones_md)
 end
 
-zones_txt = formatpages(iliadpageurns, md = false)
+zones_txt = formatpages(title, iliadpageurns, md = false)
 open("venetus-a-by-zone.md", "w") do io
     write(io, zones_txt)
 end
 
-lines_md = formatpages(viliadpageurns, grouping = :byline)
+lines_md = formatpages(title, iliadpageurns, grouping = :byline)
 open("venetus-a-by-line.md", "w") do io
     write(io, lines_md)
 end
 
-lines_txt = formatpages(viliadpageurns, grouping = :byline, md = false)
+lines_txt = formatpages(title, iliadpageurns, grouping = :byline, md = false)
 open("venetus-a-by-line.md", "w") do io
     write(io, lines_txt)
 end
