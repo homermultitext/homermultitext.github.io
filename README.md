@@ -13,4 +13,4 @@ Content in `docs` can be synced up to the web site at `www.homermultitext.org` u
 ## Building downloadable editions
 
 From the repository root, use `scripts/downloadable_texts.jl` to generate downloadable text editions 
-of the Venetus A *Iliad* and *scholia*, with *shcolia* grouped by zone and grouped by *Iliad* line they comment on, in both plain-text and markdown formats (four output files total).
+of the Venetus A *Iliad* and *scholia*, with *scholia* grouped by zone and grouped by *Iliad* line they comment on, in both plain-text and markdown formats (four output files total).

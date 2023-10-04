@@ -9,7 +9,8 @@ using HmtGutenberg
 
 cexdata = hmt_cex()
 va = hmt_codices(cexdata)[6]
-iliadpageurns = map(p -> urn(p), va.pages[27:655])
+va.pages[26]
+iliadpageurns = map(p -> urn(p), va.pages[26:655])
 
 
 zones_md = formatpages(iliadpageurns)
