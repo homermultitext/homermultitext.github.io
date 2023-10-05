@@ -19,7 +19,7 @@ open("venetus-a-by-zone.md", "w") do io
 end
 
 zones_txt = formatpages(title, iliadpageurns, md = false)
-open("venetus-a-by-zone.md", "w") do io
+open("venetus-a-by-zone.txt", "w") do io
     write(io, zones_txt)
 end
 
@@ -29,6 +29,6 @@ open("venetus-a-by-line.md", "w") do io
 end
 
 lines_txt = formatpages(title, iliadpageurns, grouping = :byline, md = false)
-open("venetus-a-by-line.md", "w") do io
+open("venetus-a-by-line.txt", "w") do io
     write(io, lines_txt)
 end
